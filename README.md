@@ -10,7 +10,7 @@ In `Analysis of the Evolution of Advanced Transformer-based Language Models: Exp
 - [Citation](#citation)
 - [Contact Info](#contact-info)
 
-## Teck Stack
+## Tech Stack
 - [x] PyTorch
 - [x] Hugging-Face
 - [x] Transformers
