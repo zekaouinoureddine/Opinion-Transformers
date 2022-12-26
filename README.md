@@ -4,7 +4,7 @@ In `Analysis of the Evolution of Advanced Transformer-based Language Models: Exp
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
-- [Repo Blocks](#tech-structure)
+- [Repo Structure](#repo-structure)
 - [Dataset](#dataset)
 - [Model Results](#model-results)
 - [Citation](#citation)
