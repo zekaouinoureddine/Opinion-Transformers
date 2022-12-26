@@ -34,7 +34,7 @@ For experiments we used the IMDb movie reviews dataset due to its accessibility,
 
 |              | Encoder                                | Decoder                                | Encoder-Decoder |
 |:------------:|:--------------------------------------:|:--------------------------------------:|:---------------:|
-| Architecture | ![encoders.png](./assets/encoders.png) | ![decoders.png](./assets/decoders.png) | -               |
+| Arch.        | ![encoders.png](./assets/encoders.png) | ![decoders.png](./assets/decoders.png) | -               |
 
 
 * **Main Results:**
@@ -81,11 +81,11 @@ For experiments we used the IMDb movie reviews dataset due to its accessibility,
 To cite the paper, use the BibTeX snippet below:
 
 ```
-@article{zekaoui2022??,
+@article{zekaoui2022analysis,
   title={Analysis of the Evolution of Advanced Transformer-based Language Models: Experiments on Opining Mining},
   author={Nour Eddine, Zekaoui and Siham, Yousfi and Maryem, Rhanoui and Mounia, Mikram},
-  journal={???},
-  year={???}
+  journal={IAES International Journal of Artificial Intelligence (IJ-AI)},
+  year={2022}
 }
 ```
 
