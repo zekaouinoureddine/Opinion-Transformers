@@ -32,9 +32,9 @@ For experiments we used the IMDb movie reviews dataset due to its accessibility,
 
 * **Model Architectures**:
 
-|              | Encoder                                | Decoder                                | Encoder-Decoder |
-|:------------:|:--------------------------------------:|:--------------------------------------:|:---------------:|
-| Arch.        | ![encoders.png](./assets/encoders.png) | ![decoders.png](./assets/decoders.png) | -               |
+|              | Encoder                                | Decoder                                | Encoder - Decoder |
+|:------------:|:--------------------------------------:|:--------------------------------------:|:-----------------:|
+| Arch.        | ![encoders.png](./assets/encoders.png) | ![decoders.png](./assets/decoders.png) | -                 |
 
 
 * **Main Results:**
@@ -69,7 +69,7 @@ For experiments we used the IMDb movie reviews dataset due to its accessibility,
 
 * **Best vs. Worsd Model:**
 
-| Model   | Performance | Accuracy                               | Loss                                   | Confusion                              |
+| Model   | Perf.       | Accuracy                               | Loss                                   | Confusion                              |
 |:-------:|:-----------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|
 | ELECTRA | Best        | ![electraa.png](./assets/electraa.png) | ![electral.png](./assets/electral.png) | ![electrac.png](./assets/electrac.png) | 
 | GPT2    | Worst       | ![gpta.png](./assets/gpta.png)         | ![gptl.png](./assets/gptl.png)         | ![gptc.png](./assets/gptc.png)         |
