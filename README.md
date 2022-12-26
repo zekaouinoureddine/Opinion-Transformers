@@ -1,14 +1,3 @@
----
-title: "Advanced Transformer-Based Models: Experiments on Opining Mining"
-author:
-  - Nour Eddine Zekaoui
-date: 2022-10-04
-keywords:
-  - Natural Language Processing
-  - Transformer-Based Models
-  - Opinion Mining
-...
-
 # Advanced Transformer-Based Models: Experiments on Opining Mining
 
 In `Analysis of the Evolution of Advanced Transformer-based Language Models: Experiments on Opening Mining`, we analyzed Transformer-based models. Further, we performed experiments on the IMDb dataset to help researchers and production engineers to which approach they should pay more attention.
