@@ -1,6 +1,6 @@
 # Advanced Transformer-Based Models: Experiments on Opining Mining
 
-In `Analysis of the Evolution of Advanced Transformer-based Language Models: Experiments on Opening Mining`, we analyzed Transformer-based models. Further, we performed experiments on the IMDb dataset to help researchers and production engineers to which approach they should pay more attention.
+In **[Analysis of the Evolution of Advanced Transformer-based Language Models: Experiments on Opening Mining]()**, we analyzed Transformer-based models. Further, we performed experiments on the IMDb dataset to help researchers and production engineers to which approach they should pay more attention.
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
