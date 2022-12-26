@@ -30,6 +30,13 @@ For experiments we used the IMDb movie reviews dataset due to its accessibility,
 
 ## Model Results
 
+* **Model Architectures**:
+
+|              | Encoder                                | Decoder                                | Encoder-Decoder |
+|:------------:|:--------------------------------------:|:--------------------------------------:|:---------------:|
+| Architecture | ![encoders.png](./assets/encoders.png) | ![decoders.png](./assets/decoders.png) | -               |
+
+
 * **Main Results:**
 
 | Model       | Objective                  | Recall | Precision | F1   | Accuracy | GitHub Link                                                                                                                        | Google Colab                                                                                                                                                        |
@@ -58,6 +65,16 @@ For experiments we used the IMDb movie reviews dataset due to its accessibility,
 | BERT  | 64      | []           | 86.8   | 84.7      | 85.8 | 85.6     | [![Open in GitHub](https://img.shields.io/badge/GitHub-Open%20In%20GitHub-blue?logo=github)](./all/Movie_Reviews_BERT_v1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qutjpCEzselMEZwtEocRItf01uFbCqqI?usp=sharing) |
 | BERT  | 384     | []           | 93.9   | 94.3      | 94.1 | 94.0     | [![Open in GitHub](https://img.shields.io/badge/GitHub-Open%20In%20GitHub-blue?logo=github)](./all/Movie_Reviews_BERT_v1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qutjpCEzselMEZwtEocRItf01uFbCqqI?usp=sharing) |
 | BERT  | 384     | [x]          | 92.6   | 91.6      | 92.1 | 92.2     | [![Open in GitHub](https://img.shields.io/badge/GitHub-Open%20In%20GitHub-blue?logo=github)](./all/Movie_Reviews_BERT_v1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qutjpCEzselMEZwtEocRItf01uFbCqqI?usp=sharing) |
+
+
+
+* Best vs. Worst Model:
+
+
+| Model   | Performance | Accuracy                 | Loss                     | Confusion                |
+|:-------:|-------------|--------------------------|--------------------------|--------------------------|
+| ELECTRA | Best Model  | ![bea.png](./assets/bea) | ![bea.png](./assets/bea) | ![bea.png](./assets/bea) |
+| GPT2    | Worst Model | ![bea.png](./assets/bea) | ![bea.png](./assets/bea) | ![bea.png](./assets/bea) |
 
 
 ## Citation
