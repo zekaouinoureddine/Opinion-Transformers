@@ -67,12 +67,12 @@ For experiments we used the IMDb movie reviews dataset due to its accessibility,
 | BERT  | 384     | [x]          | 92.6   | 91.6      | 92.1 | 92.2     | [![Open in GitHub](https://img.shields.io/badge/GitHub-Open%20In%20GitHub-blue?logo=github)](./notebooks/Movie_Reviews_BERT_v1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qutjpCEzselMEZwtEocRItf01uFbCqqI?usp=sharing) |
 
 
-* Best vs. Worsd Model:
+* **Best vs. Worsd Model:**
 
 | Model   | Performance | Accuracy                               | Loss                                   | Confusion                              |
 |:-------:|:-----------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|
-| ELECTRA | Best Model  | ![electraa.png](./assets/electraa.png) | ![electral.png](./assets/electral.png) | ![electrac.png](./assets/electrac.png) |
-| GPT2    | Worst Model | ![gpta.png](./assets/gpta.png)         | ![gptl.png](./assets/gptl.png)         | ![gptc.png](./assets/gptc.png)         |
+| ELECTRA | Best        | ![electraa.png](./assets/electraa.png) | ![electral.png](./assets/electral.png) | ![electrac.png](./assets/electrac.png) | 
+| GPT2    | Worst       | ![gpta.png](./assets/gpta.png)         | ![gptl.png](./assets/gptl.png)         | ![gptc.png](./assets/gptc.png)         |
 
 
 
@@ -90,5 +90,5 @@ To cite the paper, use the BibTeX snippet below:
 ```
 
 ## Contact Info
-For help or issues using the paper's code, please submit a GitHub **issue**. For personal communication related to the paper, please contact: `{nour-eddine.zekaoui, syousfi, mrhanoui, mmikram}@esi.ac.ma` .
+For help or issues using the paper's code, please submit a GitHub **[issue](https://github.com/zekaouinoureddine/Advanced-transformer-based-models-on-opinion-mining/issues)**. For personal communication related to the paper, please contact: `{nour-eddine.zekaoui, syousfi, mrhanoui, mmikram}@esi.ac.ma` .
 
