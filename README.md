@@ -83,7 +83,7 @@ To cite the paper, use the BibTeX snippet below:
 ```
 @article{zekaoui2022??,
   title={Analysis of the Evolution of Advanced Transformer-based Language Models: Experiments on Opining Mining},
-  author={Nour Eddine, Zekaoui and Siham, Yousfi1 and Maryem, Rhanoui and Mounia, Mikram},
+  author={Nour Eddine, Zekaoui and Siham, Yousfi and Maryem, Rhanoui and Mounia, Mikram},
   journal={???},
   year={???}
 }
