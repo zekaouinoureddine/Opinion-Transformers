@@ -22,6 +22,7 @@ In **[Analysis of the Evolution of Advanced Transformer-based Language Models: E
    ├── assets
    ├── data
    ├── notebooks
+   ├── LICENSE
    └── README.md
 ```
 
