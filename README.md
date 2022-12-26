@@ -71,7 +71,7 @@ For experiments we used the IMDb movie reviews dataset due to its accessibility,
 
 | Model   | Performance | Accuracy                               | Loss                                   | Confusion                              |
 |:-------:|:-----------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|
-| ELECTRA | Best Model  | ![electraa.png](./assets/electraa.png) | ![electral.png](./assets/electral.png) | ![electraa.png](./assets/electraa.png) |
+| ELECTRA | Best Model  | ![electraa.png](./assets/electraa.png) | ![electral.png](./assets/electral.png) | ![electrac.png](./assets/electrac.png) |
 | GPT2    | Worst Model | ![gpta.png](./assets/gpta.png)         | ![gptl.png](./assets/gptl.png)         | ![gptc.png](./assets/gptc.png)         |
 
 
