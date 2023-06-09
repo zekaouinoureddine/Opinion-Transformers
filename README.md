@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Python-3.10-brightgreen.svg)
 ![](https://img.shields.io/badge/PyTorch-1.14-orange.svg)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QC_W9IHGrvhs06hfWUX86-tp0LmSX4Lp?usp=sharing)
-# Advanced Transformer-Based Models: Experiments on Opining Mining
+# Analysis of the evolution of advanced transformer-based language models: experiments on opinion mining
 
 In **[Analysis of the Evolution of Advanced Transformer-based Language Models: Experiments on Opening Mining]()**, we analyzed Transformer-based models. Further, we performed experiments on the IMDb dataset to help researchers and production engineers to which approach they should pay more attention.
 
