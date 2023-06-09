@@ -85,7 +85,7 @@ For experiments we used the IMDb movie reviews dataset due to its accessibility,
 
 ## Citation
 
-To cite the paper, use the BibTeX snippet below:
+To cite the paper, use the BibTeX snippet below (**To be updated soon ...**):
 
 ```
 @article{zekaoui2022analysis,
