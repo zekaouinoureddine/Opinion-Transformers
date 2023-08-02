@@ -2,11 +2,9 @@
 ![](https://img.shields.io/badge/PyTorch-1.14-orange.svg)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QC_W9IHGrvhs06hfWUX86-tp0LmSX4Lp?usp=sharing)
 
--- This is work in progress --
-
 # Analysis of the evolution of advanced transformer-based language models: experiments on opinion mining
 
-In **[Analysis of the evolution of advanced transformer-based language models: experiments on opinion mining]()**, we analyzed Transformer-based models. Further, we performed experiments on the IMDb dataset to help researchers and production engineers to which approach they should pay more attention.
+In **[Analysis of the evolution of advanced transformer-based language models: experiments on opinion mining](http://doi.org/10.11591/ijai.v12.i4.pp1995-2010)**, we analyzed Transformer-based models. Further, we performed experiments on the IMDb dataset to help researchers and production engineers to which approach they should pay more attention.
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
@@ -96,7 +94,7 @@ To cite the paper, use the BibTeX snippet below (**To be updated soon ...**):
   number = {4},
   month = {December},
   year = {2023},
-  doi = {10.11591/ijai.v12.i4.pp1-1x},
+  doi = {10.11591/ijai.v12.i4.pp1995-2010},
   ISSN = {2252-8938}
 }
 
