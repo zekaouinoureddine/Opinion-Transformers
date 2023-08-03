@@ -92,6 +92,7 @@ To cite the paper, use the BibTeX snippet below (**To be updated soon ...**):
   journal = {IAES International Journal of Artificial Intelligence (IJ-AI)},
   volume = {12},
   number = {4},
+  pages = {1995--2010}
   month = {December},
   year = {2023},
   doi = {10.11591/ijai.v12.i4.pp1995-2010},
