@@ -82,23 +82,20 @@ For experiments we used the IMDb movie reviews dataset due to its accessibility,
 
 
 ## Citation
-
-To cite the paper, use the BibTeX snippet below (**To be updated soon ...**):
-
 ```
-@article{zekaoui2023analysis,
-  title = {{A}nalysis of the Evolution of Advanced Transformer-Based Language Models: Experiments on Opinion Mining},
-  author = {Zekaoui, Nour Eddine and Yousfi, Siham and Rhanoui, Maryem and Mikram, Mounia},
-  journal = {IAES International Journal of Artificial Intelligence (IJ-AI)},
+@article{Zekaoui_2023,
+  title = {Analysis of the evolution of advanced transformer-based language models: experiments on opinion mining},
+  author = {Nour Eddine Zekaoui and Siham Yousfi and Maryem Rhanoui and Mounia Mikram},
+  journal = {{IAES} International Journal of Artificial Intelligence ({IJ}-{AI})},
   volume = {12},
   number = {4},
   pages = {1995--2010}
-  month = {December},
+  month = {Dec},
   year = {2023},
   doi = {10.11591/ijai.v12.i4.pp1995-2010},
-  ISSN = {2252-8938}
+  ISSN = {2252-8938},
+  url = {https://doi.org/10.11591/ijai.v12.i4.pp1995-2010},
 }
-
 ```
 
 ## Contact Info
