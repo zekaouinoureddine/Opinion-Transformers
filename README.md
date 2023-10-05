@@ -2,10 +2,11 @@
 ![](https://img.shields.io/badge/PyTorch-1.14-orange.svg)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QC_W9IHGrvhs06hfWUX86-tp0LmSX4Lp?usp=sharing)
 
-# Analysis of the evolution of advanced transformer-based language models: experiments on opinion mining
+# [Analysis of the evolution of advanced transformer-based language models: experiments on opinion mining](http://doi.org/10.11591/ijai.v12.i4.pp1995-2010)
 
-In **[Analysis of the evolution of advanced transformer-based language models: experiments on opinion mining](http://doi.org/10.11591/ijai.v12.i4.pp1995-2010)**, we analyzed Transformer-based models. Further, we performed experiments on the IMDb dataset to help researchers and production engineers to which approach they should pay more attention.
-
+**Abstract**
+> Opinion mining, also known as sentiment analysis, is a subfield of natural language processing (NLP) that focuses on identifying and extracting subjective information in textual material. This can include determining the overall sentiment of a piece of text (e.g., positive or negative), as well as identifying specific emotions or opinions expressed in the text, that involves the use of advanced machine and deep learning techniques. Recently, transformer-based language models make this task of human emotion analysis intuitive, thanks to the attention mechanism and parallel computation. These advantages make such models very powerful on linguistic tasks, unlike recurrent neural networks that spend a lot of time on sequential processing, making them prone to fail when it comes to processing long text. The scope of our paper aims to study the behaviour of the cutting-edge Transformer-based language models on opinion mining and provide a high-level comparison between them to highlight their key particularities. Additionally, our comparative study shows leads and paves the way for production engineers regarding the approach to focus on and is useful for researchers as it provides guidelines for future research subjects.
+> 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
 - [Repo Structure](#repo-structure)
